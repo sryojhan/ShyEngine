@@ -2,6 +2,8 @@
 
 Final degree project repository
 
+![ShyLogo](/ReadmeAssets/Shy.png)
+
 ## Repository Directory Structure
 
 The project is divided into two main sections: the engine and the editor,
